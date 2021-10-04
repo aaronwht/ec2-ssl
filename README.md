@@ -1,5 +1,9 @@
 # EC2 SSL
 
+
+## Run a secure website from a free-tier eligeble AWS EC2 instance  
+[Video Tutorial](https://youtu.be/joEJZ2Xx8-A) 
+
 ## Install nvm and certbot
 `sudo su`  
 `amazon-linux-extras install nginx1.12 epel -y`  
